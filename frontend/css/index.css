@@ -8,7 +8,7 @@ h1{
     color:aqua;
 }
 .Heading-4{
-    color:blueviolet
+    color:#1a052e
 }
 .para{
     border:2px;
@@ -29,7 +29,7 @@ h1{
 }
 .navbar a{
     text-decoration: none;
-    color:cadetblue;
+    color:#061d1ddb;
     padding: 10px;
 }
 .navbar a:hover{
@@ -49,6 +49,9 @@ h1{
     
 }
 .card img{
-    width: 100px;
+    width: 100%;
 
+}
+.card button{
+    margin-bottom: 20px;
 }
