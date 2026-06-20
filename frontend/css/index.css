@@ -37,6 +37,18 @@ h1{
     color: chartreuse;
 }
 .body{
-    margin: 8px;
+    margin: 0px;
+
+}
+.card{
+    border: 2px solid chocolate;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+.card img{
+    width: 100px;
 
 }
